@@ -18,7 +18,7 @@ const About = () => {
             Online platform for sharing, discovering and discussing ideas
           </h1>
           <h2 className={styles.imgDesc}>
-            We don’t just build websites, we build websites that SELLS
+            We don&apos;t just build websites, we build websites that SELLS
           </h2>
         </div>
       </div>
@@ -26,21 +26,23 @@ const About = () => {
         <div className={styles.item}>
           <h1 className={styles.title}>Who are we?</h1>
           <p className={styles.desc}>
-            We’re Oasis and we absolutely love working on projects – whether
-            they’re websites, games, social initiatives, research projects, or
-            startups. When we’re working on something, we find ourselves coming
-            up with lots of great ideas about other valuable projects that one
-            could do. But even though these ideas are amazing, they often
-            require skills/resources that we don’t have and don’t align very
-            well with our career goals. So, they just lie on the scratchpad. Yet
-            later, when we’re looking for ideas, we’re unable to find anything
-            good. The internet is full of so much other stuff that finding
-            unique yet useful project ideas is a nightmare. Finding one that
-            matches our specific interests is even more difficult.
+            We&apos;re Oasis and we absolutely love working on projects –
+            whether they&apos;re websites, games, social initiatives, research
+            projects, or startups. When we&apos;re working on something, we find
+            ourselves coming up with lots of great ideas about other valuable
+            projects that one could do. But even though these ideas are amazing,
+            they often require skills/resources that we don&apos;t have and
+            don&apos;t align very well with our career goals. So, they just lie
+            on the scratchpad. Yet later, when we&apos;re looking for ideas,
+            we&apos;re unable to find anything good. The internet is full of so
+            much other stuff that finding unique yet useful project ideas is a
+            nightmare. Finding one that matches our specific interests is even
+            more difficult.
             <br />
             <br />
-            Enter Oasis of Ideas. It’s an online platform that, We hope, will be
-            the best place on the internet to share and discover project ideas.
+            Enter Oasis of Ideas. It&apos;s an online platform that, We hope,
+            will be the best place on the internet to share and discover project
+            ideas.
           </p>
         </div>
         <div className={styles.item}>

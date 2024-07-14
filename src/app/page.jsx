@@ -21,6 +21,7 @@ export default function Home() {
           src="/brainstrom.jpg"
           width={600}
           height={600}
+          alt="brainstrom"
           className={styles.hero}
         />
       </div>
