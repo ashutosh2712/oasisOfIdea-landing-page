@@ -14,12 +14,12 @@ export default function Home() {
           The technology you use impresses no one. The experience you create
           with it is everything.
         </p>
-        <Button url="#" text="See Our Works" />
+        <Button url="https://www.oasis-of-ideas.com/" text="See Our Works" />
       </div>
       <div className={styles.item}>
         <Image
-          src="/oasis.jpg"
-          width={400}
+          src="/brainstrom.jpg"
+          width={600}
           height={600}
           className={styles.hero}
         />

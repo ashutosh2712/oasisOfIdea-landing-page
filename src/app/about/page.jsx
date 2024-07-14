@@ -7,7 +7,7 @@ const About = () => {
     <div className={styles.container}>
       <div className={styles.imgContainer}>
         <Image
-          src="/tech-team.jpg"
+          src="/team-tech.jpg"
           width={1200}
           height={400}
           alt="team"
