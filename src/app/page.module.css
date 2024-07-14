@@ -12,8 +12,8 @@
 }
 
 .title {
-  font-size: 62px;
-  background: linear-gradient(to bottom, #194c33, #bbb);
+  font-size: 52px;
+  background: linear-gradient(to bottom, #49a1f9, #bbb);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -24,7 +24,7 @@
 }
 
 .hero {
-  object-fit: cover;
+  object-fit: contain;
   animation: move 3s infinite ease alternate;
 }
 

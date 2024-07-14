@@ -7,19 +7,20 @@ export default function Home() {
     <div className={styles.container}>
       <div className={styles.item}>
         <h1 className={styles.title}>
-          Engineering is the closest thing to magic that exists in the world.
+          The art challenges the technology, and the technology inspires the
+          art.
         </h1>
         <p className={styles.desc}>
-          Once a new technology rolls over you, if you’re not part of the
-          steamroller, you’re part of the road.
+          The technology you use impresses no one. The experience you create
+          with it is everything.
         </p>
-        <Button url="#" text="See Your Works" />
+        <Button url="#" text="See Our Works" />
       </div>
       <div className={styles.item}>
         <Image
           src="/oasis.jpg"
           width={400}
-          height={400}
+          height={600}
           className={styles.hero}
         />
       </div>
